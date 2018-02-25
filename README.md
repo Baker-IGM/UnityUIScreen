@@ -10,7 +10,7 @@ How to build a UI in Unity that changes to fit the screen size
   * Anchors
   * Pivot
   * Values
-* Layouts
+* [Auto Layouts](https://docs.unity3d.com/Manual/comp-UIAutoLayout.html)
   * [Vertical layout group](https://docs.unity3d.com/Manual/script-VerticalLayoutGroup.html)
   * [Grid layout group](https://docs.unity3d.com/Manual/script-GridLayoutGroup.html)
   * [Layout element](https://docs.unity3d.com/Manual/script-LayoutElement.html)
