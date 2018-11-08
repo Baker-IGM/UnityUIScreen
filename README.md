@@ -1,5 +1,5 @@
 # UnityUIScreen
-How to build a UI in Unity that changes to fit the screen size
+How to build a UI in Unity that changes to fit the screen size. Full write up on the [Wiki](../../wiki)
 
 ## Key Componets
 * [Canvas](https://docs.unity3d.com/Manual/class-Canvas.html)
