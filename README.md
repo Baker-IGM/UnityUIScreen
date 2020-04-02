@@ -25,3 +25,6 @@ How to build a UI in Unity that changes to fit the screen size. Full write up on
 
 ## Useful Links
 * <https://docs.unity3d.com/Manual/UIHowTos.html>
+
+## Assets
+  * [Background Image](https://www.pixilart.com/photo/my-fantasy-world-1e0d9c599f642ca)
